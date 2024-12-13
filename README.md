@@ -26,7 +26,7 @@ cd amazon-clone
 Home Page
 ![Screenshot 2024-12-13 164341](https://github.com/user-attachments/assets/955a1c8c-cdbc-4ec8-be2f-086956e3be88)
 Shopping Cart
-
+![Uploading Screenshot 2024-12-13 164600.png…]()
 Checkout Page
 
 Contributing
