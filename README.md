@@ -28,20 +28,21 @@ cd amazon-clone
 - Shopping Cart
 ![Screenshot 2024-12-13 164600](https://github.com/user-attachments/assets/f49323d2-dce5-47c0-8093-fb0438f2cbbf)
 
-- Checkout Page
+- Footer
+  ![Screenshot 2024-12-13 165223](https://github.com/user-attachments/assets/2ff7cc5c-872b-4ea2-a33e-5a4c92522668)
   
 
-Contributing
+# Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For queries or support:
 
-Email: support@amazonclone.com
-GitHub: Your GitHub Profile
+# Contact
+For inquiries, please reach out to:
+
+- Email: gauriwalunj448@gmail.com
+- github:https://github.com/Gauri-Walunj
+- linkedin:https://www.linkedin.com/in/gauriwalunj/
 
 
 
