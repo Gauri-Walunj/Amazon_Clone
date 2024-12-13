@@ -22,12 +22,14 @@ Copy code
 git clone https://github.com/Gauri-Walunj/amazon-clone.git  
 cd amazon-clone  
 
-#Screenshots
-Home Page
+# Screenshots
+- Home Page
 ![Screenshot 2024-12-13 164341](https://github.com/user-attachments/assets/955a1c8c-cdbc-4ec8-be2f-086956e3be88)
-Shopping Cart
-![Uploading Screenshot 2024-12-13 164600.png…]()
-Checkout Page
+- Shopping Cart
+![Screenshot 2024-12-13 164600](https://github.com/user-attachments/assets/f49323d2-dce5-47c0-8093-fb0438f2cbbf)
+
+- Checkout Page
+  
 
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
