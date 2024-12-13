@@ -22,9 +22,9 @@ Copy code
 git clone https://github.com/Gauri-Walunj/amazon-clone.git  
 cd amazon-clone  
 
-Screenshots
+#Screenshots
 Home Page
-
+![Screenshot 2024-12-13 164341](https://github.com/user-attachments/assets/955a1c8c-cdbc-4ec8-be2f-086956e3be88)
 Shopping Cart
 
 Checkout Page
